@@ -36,7 +36,7 @@ def game_type_1():
 
 # Function for game-type 2 where the player will think of a word
 def game_type_2():
-    word = func.player_think_of_word()
+    func.player_think_of_word()
     game_list = func.create_word_list()
     while True:
         guess = func.computer_guess(game_list)
