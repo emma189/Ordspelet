@@ -8,7 +8,7 @@
 
 **Suggestion for Linting** (Optional)
 1. Open settings.json in .vscode
-2. Add bellow
+2. Add below
 
 ```bash
     "python.linting.pylintEnabled": true,
